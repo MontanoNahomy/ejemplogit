@@ -2,3 +2,6 @@ Tesis de grado de TICs
 Montaño Nahomy
 
 Redacción del capitulo 1
+Redacción del capitulo 2
+Análisis del sistema
+Diseño de sistema
