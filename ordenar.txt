@@ -1,2 +1,6 @@
 Ingresar el vestor
 ordenar en forma ascendente
+Codificando en en C++
+Funcion 1
+cuerpo de la función
+Fin de la función
